@@ -40,7 +40,7 @@ Released   : 20120723
     <meta name="description" content="" />
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <?php 
-    if(strcmp($lang) == 0){
+    if(strcmp($lang, 'FR') == 0){
       echo "<title>CCÉM - CUMC</title>";
     }
     else{
@@ -78,7 +78,13 @@ Released   : 20120723
       <div id="main">
 	<div id="sidebar">
 	  <div class="box">
-	    <h3>Date</h3>
+	    <?php 
+            if(strcmp($lang, 'FR') == 0){
+              echo "<h3>Nouvelles</h3>";
+            }
+            else{
+              echo "<h3>News</h3>";
+            }?>
 	    <div class="dateList">
 	      <?php include($lang . "/uniform/sidebar-date.php"); ?>
 	    </div>
