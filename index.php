@@ -76,7 +76,17 @@ Released   : 20120723
 	<img src="images/roger-gaudry.jpg" alt="" />
       </div>
       <div id="main">
-	<?php include($lang . "/uniform/sidebar.php"); ?>
+	<div id="sidebar">
+	  <div class="box">
+	    <h3>Date</h3>
+	    <div class="dateList">
+	      <?php include($lang . "/uniform/sidebar-date.php"); ?>
+	    </div>
+	  </div>
+	  <div class="box">
+	    <?php include($lang . "/uniform/sidebar.php"); ?>
+	  </div>
+	</div>
 	<div id="content">
 	  <?php include($lang . "/home.php"); ?>    
 	  <br class="clear" />
@@ -84,6 +94,8 @@ Released   : 20120723
 	<br class="clear" />
       </div>
     </div>
-    <?php include($lang . "/uniform/footer.php"); ?>    
+    <div id="copyright">
+      <?php include($lang . "/uniform/footer.php"); ?>
+    </div>
   </body>
 </html>
