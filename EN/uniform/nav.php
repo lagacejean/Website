@@ -1,18 +1,18 @@
 <ul>
   <li class="first">
-    <a href="index.php">Accueil</a>
+    <a href="index.php">Home</a>
   </li>
   <li>
-    <a href="about.php">À propos</a>
+    <a href="about.php">About</a>
   </li>
   <li>
-    <a href="committee.php">Comité</a>
+    <a href="committee.php">Committee</a>
   </li>
   <li>
-    <a href="schedule.php">Horaire</a>
+    <a href="schedule.php">Schedule</a>
   </li>
   <li>
-    <a href="speaker.php">Conférenciers</a>
+    <a href="speaker.php">Speaker</a>
   </li>
   <li>
     <a href="inscription.php">Inscription</a>
@@ -21,12 +21,12 @@
     <a href="blog.php">Blog</a>
   </li>
   <li>
-    <a href="sponsors.php">Commanditaire</a>
+    <a href="sponsors.php">Sponsors</a>
   </li>
   <li>
     <a href="contact.php">Contact</a>
   </li>
   <li class="last">
-    <a href="faq.php">Questions fréquentes</a>
+    <a href="faq.php">FAQ</a>
   </li>
 </ul>

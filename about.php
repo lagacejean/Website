@@ -36,10 +36,10 @@ Released   : 20120723
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <?php 
     if(strcmp($lang, 'FR') == 0){
-      echo "<title>CCÉM - CUMC</title>";
+      echo "<title>À propos du CCÉM</title>";
     }
     else{
-      echo "<title>CUMC - CCÉM</title>";
+      echo "<title>About CUMC</title>";
     }?>
     <link href="http://fonts.googleapis.com/css?family=Arvo" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" type="text/css" href="style.css" />
@@ -89,7 +89,7 @@ Released   : 20120723
 	  </div>
 	</div>
 	<div id="content">
-	  <?php include($lang . "/home.php"); ?>    
+	  <?php include($lang . "/about.php"); ?>    
 	  <br class="clear" />
 	</div>
 	<br class="clear" />
