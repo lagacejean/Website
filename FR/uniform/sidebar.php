@@ -1,18 +1,16 @@
-<h3>Morbi tortor eget</h3>
-<p>
-  Lectus venenatis pharetra mauris nisl cum neque adipiscing. Turpis ridiculus leo scelerisque.
-</p>
+<h3>Réseaux sociaux</h3>
+
+<p>Suivez nous sur les réseaux sociaux pour
+du matériel mathématique et connaître les dessus de 
+l'organisation.</p>
 <ul class="linkedList">
   <li class="first">
-    <a href="#">Luctus curae vitae</a>
+    <a href="https://www.facebook.com/cumc2013">Facebook</a>
   </li>
   <li>
-    <a href="#">Duis justo parturient lectus</a>
-  </li>
-  <li>
-    <a href="#">Nullam fermentum cras sociis</a>
+    <a href="https://twitter.com/CCEM2013">Twitter</a>
   </li>
   <li class="last">
-    <a href="#">Natoque sapien suscipit</a>
+    <a href="blog.php">Blog</a>
   </li>
 </ul>

@@ -1,1 +1,1 @@
-<h2>Lorem ipsum dolor nullam consequat magna sed phasellus.</h2>
+<h2>Congrès Canadien des Étudiants en Mathématiques</h2>
