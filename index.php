@@ -2,21 +2,11 @@
 header('Content-type: text/html; charset=utf-8');
 session_start();
 
-if(isset($_GET['lang'])){
-  if(strcmp($_GET['lang'], 'FR') == 0) $lang = 'FR';
-  else $lang = 'EN';
-}
-elseif(isset($_SESSION['lang'])){
-  if(strcmp($_SESSION['lang'], 'FR') == 0) $lang = 'FR';
-  else $lang = 'EN';
-}
-else{
-  $lang = 'EN';
-}
-$_SESSION['lang'] = $lang;
+include "code.php";
+
+$_SESSION['lang'] = $lang = choose_language($_GET, $_SESSION);
+$content = choose_content($_GET);
 ?>
-
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <!--
@@ -89,7 +79,7 @@ Released   : 20120723
 	  </div>
 	</div>
 	<div id="content">
-	  <?php include($lang . "/home.php"); ?>    
+	  <?php include($lang . "/" . $content . ".php"); ?>
 	  <br class="clear" />
 	</div>
 	<br class="clear" />

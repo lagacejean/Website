@@ -1,32 +1,32 @@
 <ul>
   <li class="first">
-    <a href="index.php">Accueil</a>
+    <a href="index.php?content=home">Accueil</a>
   </li>
   <li>
-    <a href="about.php">À propos</a>
+    <a href="index.php?content=about">À propos</a>
   </li>
   <li>
-    <a href="committee.php">Comité</a>
+    <a href="index.php?content=committee">Comité</a>
   </li>
   <li>
-    <a href="schedule.php">Horaire</a>
+    <a href="index.php?content=schedule">Horaire</a>
   </li>
   <li>
-    <a href="speaker.php">Conférenciers</a>
+    <a href="index.php?content=speaker">Conférenciers</a>
   </li>
   <li>
-    <a href="inscription.php">Inscription</a>
+    <a href="index.php?content=inscription">Inscription</a>
   </li>
   <li>
-    <a href="blog.php">Blog</a>
+    <a href="index.php?content=blog">Blog</a>
   </li>
   <li>
-    <a href="sponsors.php">Commanditaire</a>
+    <a href="index.php?content=sponsors">Commanditaire</a>
   </li>
   <li>
-    <a href="contact.php">Contact</a>
+    <a href="index.php?content=contact">Contact</a>
   </li>
   <li class="last">
-    <a href="faq.php">Questions fréquentes</a>
+    <a href="index.php?content=faq">Questions fréquentes</a>
   </li>
 </ul>
