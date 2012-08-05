@@ -42,12 +42,16 @@ Released   : 20120723
 	<div id="logo">
 	  <?php include($lang . "/uniform/logo.php"); ?>    
 	</div>
-	<div id="search">
-	  <form action="" method="post">
-	    <div>
-	      <input class="text" name="search" size="32" maxlength="64" />
-	    </div>
-	  </form>
+	<div id="lang">
+	  <?php
+	  if(strcmp($lang, 'FR') == 0){
+            $link = "index.php?lang=EN&content=" . $content;
+	    echo "<a href=" . $link . ">English</a>";
+	  }
+	  else{
+            $link = "index.php?lang=FR&content=" . $content;
+	    echo "<a href=" . $link . ">Français</a>";
+	  }?>
 	</div>
 	<div id="nav">
 	  <?php include($lang . "/uniform/nav.php"); ?>    

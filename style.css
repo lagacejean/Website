@@ -251,6 +251,15 @@ ul {
 	box-shadow: 0px 0px 60px 0px rgba(0,0,0,0.2);
 }
 
+#lang a{
+    position: absolute;
+    bottom: 0;
+    right: 28px;
+    height: 50px;
+    line-height: 50px;
+    color: #f8f8ff;
+}
+
 #search {
 	position: absolute;
 	bottom: 0;
