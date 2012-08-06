@@ -11,6 +11,6 @@ l'organisation.</p>
     <a href="https://twitter.com/CCEM2013">Twitter</a>
   </li>
   <li class="last">
-    <a href="blog.php">Blog</a>
+    <a href="index.php?content=blog">Blog</a>
   </li>
 </ul>

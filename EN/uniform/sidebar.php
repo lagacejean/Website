@@ -11,6 +11,6 @@ underlyings of the organization.</p>
     <a href="https://twitter.com/CUMC2013">Twitter</a>
   </li>
   <li class="last">
-    <a href="blog.php">Blog</a>
+    <a href="index.php?content=blog">Blog</a>
   </li>
 </ul>
