@@ -1,1 +1,1 @@
-<h3>Questions fréquentes</h3>
+<h2>Questions fréquentes</h2>

@@ -1,1 +1,1 @@
-<h3>Conférenciers</h3>
+<h2>Conférenciers</h2>

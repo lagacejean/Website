@@ -1,1 +1,1 @@
-<h3>Organizing committee</h3>
+<h2>Organizing committee</h2>

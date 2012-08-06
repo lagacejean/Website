@@ -1,1 +1,1 @@
-<h3>Schedule</h3>
+<h2>Schedule</h2>

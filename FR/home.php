@@ -1,43 +1,27 @@
 <div class="box">
   <h2>CCÉM</h2>
-  <img src="images/pic01.jpg" width="150" height="150" alt="" class="left" />
-  <p>This is <strong>CCÉM</strong>, a free, fully standards-compliant CSS 
-    template by <a href="http://www.freecsstemplates.org/">Free CSS Templates</a>. 
-    The images used in this template are from <a href="http://fotogrph.com/">Fotogrph</a>. 
-    This free template is released under a 
-    <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attributions 3.0</a> 
-    license, so you are pretty much free to do whatever you want with it 
-    (even use it commercially) provided you keep the footer credits intact. Aside 
-    from that, have fun with it :)
-  </p>
-</div>
+  <p>Bienvenue sur le site internet du Congrès Canadien des Étudiants
+    en Mathématiques, le plus grand congrès en Amérique du Nord en
+    mathématique destiné aux étudiants de premier cycle
+    universitaire. C'est l'Université de Montréal, perché sur le
+    Mont-Royale, qui aura l'honneur d'accueillir les étudiants de
+    partout au Canada pour la vingtième édition de ce congrès annuel.</p>
 
-<div class="box">
-  <h3>Tempus eget feugiat nisl</h3>
-  <p>
-    Tristique feugiat natoque gravida quisque odio. Ipsum mus vitae suspendisse sit mattis curabitur elit. 
-    Eleifend penatibus a curabitur nulla. Ultricies praesent rutrum justo. Congue vulputate lacinia ornare 
-    tortor purus dolor eleifend. Semper dui tincidunt id dictum quam. Phasellus tristique libero tristique.
-    Eleifend penatibus a curabitur nulla. Ultricies praesent rutrum justo. Congue vulputate lacinia ornare 
-    tortor purus dolor eleifend. Semper dui tincidunt id dictum quam. Phasellus tristique libero tristique.
-    Eleifend penatibus a curabitur nulla. Ultricies praesent rutrum justo. Congue vulputate lacinia ornare 
-    tortor purus dolor eleifend. Semper dui tincidunt id dictum quam. Phasellus tristique libero tristique.
-  </p>
-  <ul class="linkedList">
-    <li class="first">
-      <a href="#">Turpis et posuere urna dolor justo</a>
-    </li>
-    <li>
-      <a href="#">Fringilla sem nisl purus lobortis magnis magna pellentesque</a>
-    </li>
-    <li>
-      <a href="#">Venenatis magna ultricies sollicitudin sodales commodo nibh aenean</a>
-    </li>
-    <li>
-      <a href="#">Magnis luctus penatibus non natoque nascetur tempus erat</a>
-    </li>
-    <li class="last">
-      <a href="#">Penatibus dolor pharetra viverra ac erat proin</a>
-    </li>
-  </ul>
+  <p>Le congrès offre une première opportunité pour les étudiants
+    d'acquérir une première expérience de recherche en mathématiques. Par
+    le biais de rencontre et d'exposé, le CCÉM propose une occasion
+    d'établir des liens entre les différentes universités au Canada, des
+    liens qui motiveront les étudiants à poursuivre leurs études
+    supérieures en mathématiques au Canada. L'évènement offre également
+    une occasion de promouvoir les différents domaines des mathématiques
+    en plus d'établir des réseaux de contacts avec des personnes
+    ressources oeuvrant dans les principaux domaines d'applications de
+    cette branche de la science. Citons comme domaines d'application la
+    physique, l'économie, l'informatique, les statistiques, les multiples
+    génies ou l'actuariat.</p>
+
+  <p>Le congrès peut réunir plus de cent-cinquante étudiants de divers
+    milieux qui se présenteront mutuellement leurs intérêts. C'est une
+    occasion unique pour les jeunes mathématiciens talentueux de se réunir
+    et d'oeuvrer ensemble pour l'avancement de la science.</p>
 </div>

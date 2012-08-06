@@ -1,2 +1,1 @@
-<h3>Commanditaires</h3>
-
+<h2>Commanditaires</h2>

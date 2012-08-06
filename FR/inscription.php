@@ -1,1 +1,1 @@
-<h3>Inscription</h3>
+<h2>Inscription</h2>

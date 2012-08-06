@@ -1,2 +1,2 @@
-<h3>Sponsors</h3>
+<h2>Sponsors</h2>
 

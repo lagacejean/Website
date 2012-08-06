@@ -1,1 +1,1 @@
-<h3>Horaire</h3>
+<h2>Horaire</h2>
