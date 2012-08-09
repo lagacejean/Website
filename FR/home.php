@@ -3,7 +3,7 @@
     en Mathématiques, le plus grand congrès en Amérique du Nord en
     mathématique destiné aux étudiants de premier cycle
     universitaire. Le prochain congrès se tiendra à Montréal et c'est
-    l'Université de Montréal, perché sur le Mont-Royal, qui aura
+    l'Université de Montréal, perchée sur le Mont-Royal, qui aura
     l'honneur d'accueillir les étudiants de partout au Canada pour la
     vingtième édition de ce grand rassemblement.</p>
 
