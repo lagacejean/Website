@@ -33,6 +33,11 @@ Released   : 20120723
     }?>
     <link href="http://fonts.googleapis.com/css?family=Arvo" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" type="text/css" href="style.css" />
+    
+    <!-- This script is for embedding math in LaTeX. -->
+    <script type="text/javascript"
+	    src="https://c328740.ssl.cf1.rackcdn.com/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
   </head>
   <body>
     <div id="bg1"></div>
