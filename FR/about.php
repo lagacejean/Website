@@ -44,9 +44,9 @@ d'un projet international initié pour l'année
 planète Terre</a>. Les scientifiques s'accordent désormais sur la
 présence d'un réchauffement climatique à l'échelle planètaire. Ce
 projet vise à rapprocher les mathématiciens des autres scientifiques
-pour qu'ils oeuvrent ensemble à réduire les impacts sur
-l'environnement. Le prochain congrès tentera ainsi de réduire son
-impact sur l'équilibre climatique.</p>
+pour qu'ils oeuvrent ensemble à réduire les impacts de notre mode de
+vie sur l'environnement. Le prochain congrès tentera ainsi de réduire
+son impact sur l'équilibre climatique.</p>
 
 <h3>Fonctionnement</h3>
 
