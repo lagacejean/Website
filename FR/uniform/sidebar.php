@@ -1,8 +1,6 @@
 <h3>Réseaux sociaux</h3>
 
-<p>Suivez nous sur les réseaux sociaux pour
-du matériel mathématique et connaître les dessous de 
-l'organisation.</p>
+<p>Pour ne rien manquer, suivez nous sur les média sociaux.</p>
 <ul class="linkedList">
   <li class="first">
     <a href="https://www.facebook.com/cumc2013">Facebook</a>

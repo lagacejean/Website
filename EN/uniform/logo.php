@@ -1,1 +1,1 @@
-<h1>CUMC - University of Montréal</h1>
+<h1>CUMC - Université de Montréal</h1>

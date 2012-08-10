@@ -53,8 +53,23 @@ strong {
 }
 
 img.left {
-	float: left;
-	margin: 0 20px 20px 0;
+    border: solid 1px #D4D4D4;
+    padding: 5px;
+    float: left;
+    margin-right: 10px;
+    margin-left: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+img.right {
+    border: solid 1px #D4D4D4;
+    padding: 5px;    
+    float: right;
+    margin-right: 0px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 img.top {
@@ -63,6 +78,7 @@ img.top {
 
 p {
 	margin-bottom: 1.25em;
+	text-align: justify;
 }
 
 ul {
