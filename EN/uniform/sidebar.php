@@ -1,3 +1,14 @@
+<h3>Informations</h3>
+
+<ul>
+  <li class="first">
+    <a href="index.php?content=accommodation">Accommodation</a>
+  </li>
+  <li class="last">
+    <a href="index.php?content=travel">How to get there</a>
+  </li>
+</ul>
+
 <h3>Social media</h3>
 
 <p>Be part of our social network and don't miss anything.</p>

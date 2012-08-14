@@ -1,3 +1,14 @@
+<h3>Informations</h3>
+
+<ul class="linkedList">
+  <li class="first">
+    <a href="index.php?content=accommodation">Hébergement</a>
+  </li>
+  <li class="last">
+    <a href="index.php?content=travel">Comment se rendre</a>
+  </li>
+</ul>
+
 <h3>Réseaux sociaux</h3>
 
 <p>Pour ne rien manquer, suivez nous sur les média sociaux.</p>

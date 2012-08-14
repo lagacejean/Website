@@ -58,8 +58,13 @@ function choose_content($get){
        0 == strcmp($lower, 'blog') ||
        0 == strcmp($lower, 'sponsors') ||
        0 == strcmp($lower, 'contact') ||
+       0 == strcmp($lower, 'travel') ||
+       0 == strcmp($lower, 'accommodation') ||
        0 == strcmp($lower, 'faq')
        ) return $lower;
+    else{
+      return '404';
+    }
   }
   return 'home';
 }
