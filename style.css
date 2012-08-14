@@ -109,11 +109,27 @@ ul {
 	overflow: hidden;
 }
 
+.question-first {
+
+}
+
 .question {
 
 }
 
+.question-last{
+
+}
+
+.answer-first {
+    border-bottom: solid 1px #d1d1d1;
+}
+
 .answer {
+    border-bottom: solid 1px #d1d1d1;
+}
+
+.answer-last {
 
 }
 
