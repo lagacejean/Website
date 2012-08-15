@@ -1,17 +1,11 @@
+<?
+/*
+ * There should be no more than 5 entries in the news.
+ */
+?>
+
 <ul class="linkedList dateList">
   <li class="first">
-    <span class="date">Jul 23</span> <a href="#">Ante sed fringilla</a>
-  </li>
-  <li>
-    <span class="date">Jul 18</span> <a href="#">Turpis dolor risus</a>
-  </li>
-  <li>
-    <span class="date">Jul 7</span> <a href="#">Nunc venenatis iaculis</a>
-  </li>
-  <li>
-    <span class="date">Jul 2</span> <a href="#">Lorem ipsum etiam</a>
-  </li>
-  <li class="last">
-    <span class="date">Jun 24</span> <a href="#">Arcu phasellus</a>
+    <span class="date">14/08</span>Le site est en ligne.
   </li>
 </ul>
