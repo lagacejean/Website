@@ -376,7 +376,7 @@
     <p>
       R: Visite les autres sections de notre site internet. Si tu ne
       peux toujours pas trouver une réponse, envoie-nous un courriel à
-      communication@ccem.math.ca.
+      <a href="mailto:communication@ccem.math.ca">communication@ccem.math.ca</a>.
     </p>
   </div>
 </div>
