@@ -12,8 +12,7 @@ function choose_language($get, $session){
    * the special variable $_SESSION['lang']. Since
    * users can have direct access to the url, the
    * modification of the $_GET['lang'] variable
-   * must have higher priority. For security, input
-   * values are never returned directly.
+   * must have higher priority.
    *
    * :param $get: $_GET array.
    * :param $session: $_SESSION array.
