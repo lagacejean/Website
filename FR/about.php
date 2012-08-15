@@ -36,12 +36,12 @@
   </p>
 
   <p>
-    Un autre aspect fondamental réside en l'absence totale de
-    compétition durant tout le déroulement du congrès. L'objectif est
-    de fournir un contexte collaboratif où chacun est invité à prendre
-    part aux activités. L'approche du CCÉM est centrée sur les
+    Pour ce faire, le CCÉM se distingue par l'absence totale de
+    compétition durant tout le déroulement de l'évènement. L'objectif
+    est de fournir un contexte collaboratif où chacun est invité à
+    prendre part aux activités. L'approche est plutôt centrée sur les
     rencontres qui, nous l'espérons, mèneront éventuellement à des
-    collaborations fructueuses pour chacun.
+    collaborations fructueuses.
   </p>
 
   <p>
@@ -51,11 +51,9 @@
     plus possible l'empreinte écologique associée à tout ce qui a
     trait à l'organisation. Les scientifiques s'accordent désormais
     sur la présence d'un réchauffement climatique à l'échelle
-    planètaire. Ce projet vise à rapprocher les mathématiciens des
-    autres scientifiques pour qu'ils oeuvrent ensemble à réduire les
-    impacts de notre mode de vie sur l'environnement. Le prochain
-    congrès tentera ainsi de réduire son impact sur l'équilibre
-    climatique.
+    planètaire et il devient de plus en pus important de prendre
+    action à ce sujet.. Le prochain congrès tentera ainsi de réduire
+    son impact sur l'équilibre climatique.
   </p>
 
   <h3>Fonctionnement</h3>

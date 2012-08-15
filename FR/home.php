@@ -32,9 +32,9 @@
     jeunes mathématiciens talentueux de sortir de leur contexte de
     travail habituel pour se réunir et discuter de leurs intérêts
     communs. Il s'agit d'un évènement exempt de compétition et nous
-    croyons qu'un tel contexte encourage l'échange entre les
-    différents milieux, ce qui est essentiel pour le développement des
-    mathématiques à travers le pays.
+    croyons qu'un tel contexte encourage l'échange et la diversité, ce
+    qui est essentiel pour le développement des mathématiques à
+    travers le pays.
   </p>
 
   <p>
