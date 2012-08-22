@@ -187,8 +187,9 @@
 
   <div class="answer">
     <p>
-      R: Voici la page qu'il te faut. Elle explique en détail comment
-      se rendre à l'Université de Montréal.
+      R: Voici <a href="index.php?content=travel">la page</a> qu'il te
+      faut. Elle explique en détail comment se rendre à l'Université
+      de Montréal.
     </p>
   </div>
 
