@@ -1,4 +1,4 @@
-<div class="box">
+﻿<div class="box">
   <p>
     Bienvenue sur le site internet du Congrès Canadien des Étudiants
     en Mathématiques, le plus grand congrès en Amérique du Nord
@@ -15,7 +15,7 @@
     d'acquérir une première expérience de recherche. Par le biais de
     rencontres et d'exposés, le CCÉM propose une occasion d'établir
     des liens entre les étudiants des différentes universités
-    canadiennes; des liens dont bénéficieront les étudiants tout au
+    canadiennes, des liens dont bénéficieront les étudiants tout au
     long de leur carrière mathématique.  L'évènement offre également
     une occasion de promouvoir les différents domaines des
     mathématiques en plus d'établir des réseaux de contacts avec des

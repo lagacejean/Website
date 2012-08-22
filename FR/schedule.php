@@ -1,4 +1,4 @@
-<div class="box">
+﻿<div class="box">
   <h2>Horaire</h2>
 
   <p>
@@ -9,8 +9,8 @@
     participants auront la chance d'assister aux conférences préparées
     par leurs pairs, ainsi qu'aux autres conférences plénières.
     Collations et café seront servis aux participants durant les
-    pauses séparant les conférences, de même qu'un dîner sera servi
-    tous les jours aux alentours de midi. Pour terminer en beauté, un
+    pauses séparant les conférences. De même, un dîner sera servi tous
+    les jours aux alentours de midi. Pour terminer en beauté, un
     banquet de fermeture sera organisé afin de souligner la fin de ce
     grand rassemblement. Un horaire détaillé sera disponible sous peu.
   </p>
