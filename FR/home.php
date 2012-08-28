@@ -5,7 +5,7 @@
     destiné aux étudiants en mathématiques de premier cycle
     universitaire. Le prochain congrès aura lieu à Montréal du 10
     juillet au 14 juillet. C'est l'Université de Montréal, perchée sur
-    le Mont-Royal, qui aura l'honneur d'accueillir les étudiants de
+    le mont Royal, qui aura l'honneur d'accueillir les étudiants de
     partout au Canada pour la vingtième édition de ce grand
     rassemblement.
   </p>
