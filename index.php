@@ -33,6 +33,7 @@ Released   : 20120723
     }?>
     <link href="http://fonts.googleapis.com/css?family=Arvo" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="icon" type="image/gif" href="images/icon.gif" />
     
     <!-- This script is for embedding math in LaTeX. -->
     <script type="text/javascript"
