@@ -138,6 +138,14 @@
       démontrer à ton université comment tu la représenteras
       concrètement.
     </p>
+
+    <p>
+      Le <a href="http://studc.cms.math.ca/indexfr.html">STUDC</a>
+      fourni également une bourse de 500$ pour financer le voyage d'un
+      étudiant. Plus d'information à ce sujet se trouve dans
+      ce <a href="http://studc.cms.math.ca/cumc/fundingApplications/Bourse_CCEM.pdf">document</a>
+      [pdf].
+    </p>
   </div>
 
   <div class="question" id="better-participant">
@@ -154,7 +162,7 @@
       connexes. Le congrès n'est pas une compétition, mais plutôt un
       rassemblement d'amoureux des mathématiques de partout au Canada,
       et même parfois d'autre pays! On recommande fortement aux
-      étudiants de tous les niveaux de se présenter, et on rappelle
+      étudiants de tous les niveaux de se présenter. Rappellons
       qu'il n'y a aura aucun élément de compétition pendant le
       congrès, à l'exception bien sûr des candidatures pour organiser
       le CCÉM 2014! Alors la question n'est pas de savoir si d'autres
@@ -175,7 +183,7 @@
   <div class="answer">
     <p>
       R: Le tarif d'inscription est fixe, quelque soit le nombre de
-      jour auxquels tu comptes participer. Malgré tout, l'hébergement
+      jours auxquels tu comptes participer. Malgré tout, l'hébergement
       sera moins dispendieux si tu planifies ne pas participer à la
       totalité du congrès. Si tu peux être présent pendant la plupart des
       jours du congrès, nous t'encourageons à venir, car la liste des
@@ -309,7 +317,7 @@
       facilement, quelle partie te mélange le plus... N'oublie pas que
       c'est plus difficile de garder l'attention d'un groupe pour 45
       minutes que pour 20 minutes, mais que si ton sujet est
-      intéressant et que tu es bien préparé,ta conférence peut passer
+      intéressant et que tu es bien préparé, ta conférence peut passer
       très vite.
     </p>
   </div>
@@ -428,7 +436,7 @@
 
   <div class="question-first" id="when">
     <p>
-	Quand l'évèment se déroulera-t-il?
+      Q: Quand l'évèment se déroulera-t-il?
     </p>
   </div>
 
@@ -480,7 +488,9 @@
       pour faire connaître votre institution. Associer le nom de votre
       institution à cette évènement, c'est présenter votre instution
       auprès des étudiants de premier cycle les plus impliqués en
-      mathématiques à travers le pays au complet.
+      mathématiques à travers le pays au complet. Pour toute question
+      relative au financement, vous êtes invités à contacter
+      <a href="mailto:finance@ccem.math.ca">finance@ccem.math.ca</a>.
     </p>
   </div>
 </div>
