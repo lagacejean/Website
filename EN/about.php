@@ -3,7 +3,7 @@
 
   <h3>Target audience</h3>
 
-  <img class="left" src="images/cumc2011.jpg" width=320 height=180 alt="CCÉM 2011">
+  <img class="left" src="images/cumc2011.jpg" width=320 height=180 alt="CUMC 2011">
   <p>
     The Canadian Undergraduate Mathematical Conference is an event
     organized by students for students. More particularly, it is made
@@ -55,12 +55,12 @@
 
   <h3>Method of operation</h3>
 
-  <img class="right" src="images/cumc2012.jpg" width=300 height=200 alt="CCÉM 2012">
+  <img class="right" src="images/cumc2012.jpg" width=300 height=200 alt="CUMC 2012">
   <p>
     The CUMC consists of a series of talks on mathematics which
     participants present to each other. The schedule is built so that
     multiple talks of equal length are presented at the same
-    time. This way, anyone can find a subject of his/her own
+    time. This way, anyone can find a subject of his own
     interest. On a volunteer basis, participants are invited to
     present a talk on the subject of their choice in front of the
     other participants. It is a very enlightening experience, whether
@@ -70,7 +70,7 @@
 
   <p>
     Between the student talks, participants are invited to attend
-    keynote speakers conferences. Those talks are a little bit longer
+    keynote speakers' presentations. Those talks are a little longer
     and will be given by speakers invited by the organization
     committee. Those talks will be an occasion to reunite all the
     participants and ensure visibility on each of the great branches
@@ -78,9 +78,9 @@
   </p>
 
   <p>
-    If you are thinking about attending the congress, we invite you to
+    If you are thinking about attending the conference, we invite you to
     consider presenting a talk. If the experience intrigues you, you
-    will find more information in
+    will find more informations in
     the <a href="index.php?content=faq">FAQ</a> section.
   </p>
 </div>

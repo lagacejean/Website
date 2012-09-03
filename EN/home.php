@@ -1,16 +1,16 @@
 ﻿<div class="box">
   <p>
-    Welcome on the Canadian Undergraduate Mathematical Congress's
-    website, the greatest congress in North America destined to
-    undergraduate mathematics students. The next congress will be at
-    University of Montreal from the 10th to the 14 of July. It is
-    University of Montreal, sitting on top of Mont Royal, who will
-    receive the honor of greeting students from everywhere in Canada
-    for the twentieth edition of this great reunion.
+    Welcome on the Canadian Undergraduate Mathematical Conference's
+    website. The CUMC is the greatest conference in North America
+    destined to undergraduate mathematics students. The next event
+    will be held from july 10th to july 14th. It is the Université de
+    Montréal, sitting on top of mount Royal, who will receive the
+    honor of welcoming canadian students for the twentieth edition of
+    this great reunion.
   </p>
 
   <p>
-    The congress offers a unique opportunity to acquire a first
+    The conference offers a unique opportunity to acquire a first
     experience in research for students. By the means of meetings and
     conferences, the CUMC suggests an occasion to create links between
     students from different canadian universities, links which those
@@ -23,20 +23,20 @@
   </p>
 
   <p>
-    The congress reunites more than a hundred and fifty students from
+    The conference reunites more than two hundred students from
     multiple academic areas who will present to each other subjects
     that fascinate them. It is a very fruitful experience for young
     talented mathematicians to get out of their usual working context
     and meet to speak about their common interests. It is an event
-    exempted from competition and we believe that such a context
+    exempted of competitions and we believe that such a context
     encourages exchange and diversity, which is essential for the
     development of mathematics across the country.
   </p>
 
   <p>
-    This website presents a great deal of information on everything
-    concerning the event. If you cannot find what you are looking for,
-    do not hesitate to write
+    This website is the main source of information regarding this
+    event. If you cannot find what you are looking for, do not
+    hesitate to write
     to <a href="mailto:cumc@cumc.math.ca">cumc@cumc.math.ca</a>. It
     will be our pleasure to answer your questions.
   </p>
