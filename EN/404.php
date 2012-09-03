@@ -2,8 +2,8 @@
   <h3>Error 404</h3>
 
   <p>
-    Do not panic, but the page that you are looking for doesn't
-    exist. Maybe you have tried dividing by zero? If you calmed down,
-    you can return to the <a href="index.php">home page</a>.
+    Don't panic! The page that you are looking for doesn't
+    exist. Make sure you know where your towel is and head back
+    to the <a href="index.php">home page</a>.
   </p>
 </div>
