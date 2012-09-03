@@ -6,7 +6,7 @@
     10th to July 14th.  The first day will be reserved to welcome
     participants. There will be a first keynote presentation before
     the traditional opening banquet. During the conference,
-    participants will have the chance to attend the talks of their
+    participants will have the chance to attend talks from their
     colleagues and other keynote speakers. Snacks and coffee will be
     served during breaks between talks and lunch will be served
     everyday around noon. To end this congress beautifully, a closing
