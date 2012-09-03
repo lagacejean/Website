@@ -26,7 +26,7 @@
   </p>
 
   <p>
-    Le congrès réunit plus de cent-cinquante étudiants des divers
+    Le congrès réunit plus de deux-cent étudiants des divers
     milieux académiques qui se présenteront mutuellement des sujets
     qui les fascinent. C'est une expérience enrichissante pour les
     jeunes mathématiciens talentueux de sortir de leur contexte de

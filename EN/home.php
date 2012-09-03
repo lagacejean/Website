@@ -1,3 +1,43 @@
-<div class="box">
-  <h2>CUMC</h2>
+﻿<div class="box">
+  <p>
+    Welcome on the Canadian Undergraduate Mathematical Conference's
+    website. The CUMC is the greatest conference in North America
+    destined to undergraduate mathematics students. The next event
+    will be held from july 10th to july 14th. It is the Université de
+    Montréal, sitting on top of mount Royal, who will receive the
+    honor of welcoming canadian students for the twentieth edition of
+    this great reunion.
+  </p>
+
+  <p>
+    The conference offers a unique opportunity to acquire a first
+    experience in research for students. By the means of meetings and
+    conferences, the CUMC suggests an occasion to create links between
+    students from different canadian universities, links which those
+    students will benefit from through their entire mathematical
+    career. The event also offers the occasion to promote the
+    different mathematical fields and offers social networks of key
+    persons working in the main fields of applications. Let us quote
+    physics, economy, informatics, statistics, the multiple
+    engineering sciences and actuarial science.
+  </p>
+
+  <p>
+    The conference reunites more than two hundred students from
+    multiple academic areas who will present to each other subjects
+    that fascinate them. It is a very fruitful experience for young
+    talented mathematicians to get out of their usual working context
+    and meet to speak about their common interests. It is an event
+    exempted of competitions and we believe that such a context
+    encourages exchange and diversity, which is essential for the
+    development of mathematics across the country.
+  </p>
+
+  <p>
+    This website is the main source of information regarding this
+    event. If you cannot find what you are looking for, do not
+    hesitate to write
+    to <a href="mailto:cumc@cumc.math.ca">cumc@cumc.math.ca</a>. It
+    will be our pleasure to answer your questions.
+  </p>
 </div>
