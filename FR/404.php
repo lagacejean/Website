@@ -4,6 +4,6 @@
   <p>
     Ne paniquez pas! La page que vous recherchez n'existe
     pas. Assurez-vous de savoir où votre serviette se trouve,
-    puis retournez à la <a href="index.php">page d'accueil</a>.
+    puis retournez à la <a href="index.php?content=home">page d'accueil</a>.
   </p>
 </div>
